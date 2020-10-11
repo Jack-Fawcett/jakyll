@@ -16,7 +16,7 @@ To request a version of my CV please contact me. <br /><br />
 
 Circle radius represents working experience in that city/country.
 
-<iframe src="_pages/experience.html" title="Experience Map" width="800" height="400">
+<iframe src="/jakyll/_pages/experience.html" title="Experience Map" width="800" height="400">
 </iframe>
 
 
@@ -25,14 +25,14 @@ Circle radius represents working experience in that city/country.
 
 A network showing a selected of skills which I have aquired and their connections.
 
-<iframe src="_pages/NetSkills.html" title="Experience Map" width="800" height="400">
+<iframe src="/jakyll/_pages/NetSkills.html" title="Experience Map" width="800" height="400">
 </iframe>
 
 
 
 ## Experience Breakdown
 
-[![EF Logo](assets/images/ef_r.png){: .align-left}](https://www.ef.edu/)**EF Education First**  
+[![EF Logo](/jakyll/assets/images/ef_r.png){: .align-left}](https://www.ef.edu/)**EF Education First**  
 <i class="fas fa-fw fa-tags" aria-hidden="true"></i> Data Scientist / Big Data Engineer  
 <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> Shanghai, China  
 <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> 2019 – Present  
@@ -42,7 +42,7 @@ Extensive use of Natural Language Processing for tagging educational content, fe
 
 ---
 
-[![Cognizant Logo](assets/images/cognizant_r.png){: .align-left}](https://www.cognizant.com/)**Cognizant**  
+[![Cognizant Logo](/jakyll/assets/images/cognizant_r.png){: .align-left}](https://www.cognizant.com/)**Cognizant**  
 <i class="fas fa-fw fa-tags" aria-hidden="true"></i> Data Scientist  
 <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> London, UK  
 <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> 2016 – 2019  
@@ -54,7 +54,7 @@ Added value to a Global Stock Transfer Company by designing and modelling SQL se
 
 ---
 
-[![Ultrawave Logo](assets/images/ultrawave_r.jpg){: .align-left}](https://ultrawave.co.uk/)**Ultrawave**  
+[![Ultrawave Logo](/jakyll/assets/images/ultrawave_r.jpg){: .align-left}](https://ultrawave.co.uk/)**Ultrawave**  
 <i class="fas fa-fw fa-tags" aria-hidden="true"></i> Research Project  
 <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> Warwick, UK  
 <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> 2015  
@@ -78,7 +78,7 @@ Added value to a Global Stock Transfer Company by designing and modelling SQL se
 
 ## Education
 
-[![Warwick Logo](assets/images/warwick_r.png){: .align-left}](https://warwick.ac.uk/) 
+[![Warwick Logo](/jakyll/assets/images/warwick_r.png){: .align-left}](https://warwick.ac.uk/) 
 
 **Physics**
 
@@ -92,7 +92,7 @@ Added value to a Global Stock Transfer Company by designing and modelling SQL se
 
 ---
 
-[![Furze Platt Logo](assets/images/furze_r.png){: .align-left}](https://www.furzeplatt.com/) 
+[![Furze Platt Logo](/jakyll/assets/images/furze_r.png){: .align-left}](https://www.furzeplatt.com/) 
 
 **A LEVELS**
 
