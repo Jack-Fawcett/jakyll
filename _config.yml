@@ -22,7 +22,7 @@ subtitle                 : "Mostly data science, some engineering and a few othe
 name                     : "Jack Fawcett"
 description              : "Jack Fawcett's portfolio website. Including but not limited to: Data Science, Data Engineering, Data Architecture and Software Development."
 url                      : "https://jack-fawcett.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/jakyll" # the subpath of your site, e.g. "/blog"
 repository               : "jack-fawcett/jakyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.png"
 logo                     : "/assets/images/logo.png"
