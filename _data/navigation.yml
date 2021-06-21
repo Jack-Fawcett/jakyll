@@ -6,6 +6,8 @@ main:
     url: /tags
   - title: "Experience"
     url: /experience
+  - title: "Papers of Interest"
+    url: /papers
   - title: "About"
     url: /about
   # - title: "About"

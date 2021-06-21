@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-GB"
 title                    : "Jakyll"
 title_separator          : "-"
-subtitle                 : "Mostly data science, some engineering and a few other things which don't fit in"
+subtitle                 : "Mostly data science, and a few other things"
 name                     : "Jack Fawcett"
 description              : "Jack Fawcett's portfolio website. Including but not limited to: Data Science, Data Engineering, Data Architecture and Software Development."
 url                      : "https://jack-fawcett.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

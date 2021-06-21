@@ -1,0 +1,83 @@
+title,year,authors,keywords
+Text summarization with pretrained encoders,2020,"Liu, Yang, Lapata, Mirella",
+Simultaneous Translation and Paraphrase for Language Education,2020,"Mayhew, Stephen, Bicknell, Klinton, Brust, Chris, McDowell, Bill, Monroe, Will, Settles, Burr",
+Simple and effective text matching with richer alignment features,2020,"Yang, Runqi, Zhang, Jianhai, Gao, Xing, Ji, Feng, Chen, Haiqing",
+Recipes for building an open-domain chatbot,2020,"Roller, Stephen, Dinan, Emily, Goyal, Naman, Ju, Da, Williamson, Mary, Liu, Yinhan, Xu, Jing, Ott, Myle, Shuster, Kurt, Smith, Eric M., Boureau, Y. Lan, Weston, Jason",
+PLATO-2: Towards Building an Open-Domain Chatbot via Curriculum Learning,2020,"Bao, Siqi, He, Huang, Wang, Fan, Wu, Hua, Wang, Haifeng, Wu, Wenquan, Guo, Zhen, Liu, Zhibin, Xu, Xinchao",
+How to retrain recommender system? A sequential meta-learning method,2020,"Zhang, Yang, Feng, Fuli, Wang, Chenxu, He, Xiangnan, Wang, Meng, Li, Yan, Zhang, Yongdong","Meta-Learning, Model Retraining, Recommendation"
+"GECToR - Grammatical error correction: Tag, not rewrite",2020,"Omelianchuk, Kostiantyn, Atrasevych, Vitaliy, Chernodub, Artem, Skurzhanskyi, Oleksandr",
+Fundamental differences in the radio properties of red and blue quasars: enhanced compact AGN emission in red quasars,2020,"Fawcett, V. A., Alexander, D. M., Rosario, D. J., Klindt, L., Fotopoulou, S., Lusso, E., Morabito, L., Rivera, G. Calistro",
+ERNIE-GEN: An enhanced multi-flow pre-training and fine-tuning framework for natural language generation,2020,"Xiao, Dongling, Zhang, Han, Li, Yukun, Sun, Yu, Tian, Hao, Wu, Hua, Wang, Haifeng",
+DDTCDR: Deep dual transfer cross domain recommendation,2020,"Li, Pan, Tuzhilin, Alexander","Autoencoder, Cross domain recommendation, Deep learning, Dual learning, Transfer learning"
+Recommendation Systems,2019,"Lee, Joonseok",
+Predicting the long-term outcomes of biologics in patients with psoriasis using machine learning,2019,"Emam, S., Du, A. X., Surmanowicz, P., Thomsen, S. F., Greiner, R., Gniadecki, R.",
+On the Difficulty of Evaluating Baselines: A Study on Recommender Systems,2019,"Rendle, Steffen, Zhang, Li, Koren, Yehuda",
+Learning what and where to transfer,2019,"Jang, Yunhun, Lee, Hankook, Hwang, Sung Ju, Shin, Jinwoo",
+Inductive Matrix Completion Based on Graph Neural Networks,2019,"Zhang, Muhan, Chen, Yixin",
+Dialogpt : Large-scale generative pre-training for conversational response generation,2019,"Zhang, Yizhe, Sun, Siqi, Galley, Michel, Chen, Yen Chun, Brockett, Chris, Gao, Xiang, Gao, Jianfeng, Liu, Jingjing, Dolan, Bill",
+Cross-domain recommendation via deep domain adaptation,2019,"Kanagawa, Heishiro, Kobayashi, Hayato, Shimizu, Nobuyuki, Tagami, Yukihiro, Suzuki, Taiji","Cross-domain recommendation, Deep domain adaptation"
+Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation,2019,"Luo, Yi, Mesgarani, Nima","Source separation, deep learning, real-time, single-channel, time-domain"
+Behavior Sequence Transformer for E-commerce Recommendation in Alibaba,2019,"Chen, Qiwei, Zhao, Huan, Li, Wei, Huang, Pipei, Ou, Wenwu",
+Wizard of Wiki: Knowledge-powered conversational agents,2018,"Dinan, Emily, Roller, Stephen, Shuster, Kurt, Fan, Angela, Auli, Michael, Weston, Jason",
+"The Design and Implementation of XiaoIce, an Empathetic Social Chatbot",2018,"Zhou, Li, Li, Di, Gao, Jianfeng, Shum, Heung Yeung",
+Retrieve and refine: Improved sequence generation models for dialogue,2018,"Weston, Jason, Dinan, Emily, Miller, Alexander H.",
+Real-time Personalization Using Embeddings for Search Ranking at Airbnb,2018,"Grbovic, Mihajlo, Cheng, Haibin","personalization, search ranking, user modeling"
+Metalearning and Recommender Systems: A literature review and empirical study on the algorithm selection problem for Collaborative Filtering,2018,"Cunha, Tiago, Soares, Carlos, de Carvalho, André C.P.L.F.","Algorithm selection, Collaborative Filtering, Metalearning, Recommendation system"
+Feature normalization for similarity calculations in matrix factorization method,2018,"Dang, Hoang Vu",
+Evaluation of non-negative matrix factorization of grey matter in age prediction,2018,"Varikuti, Deepthi P, Genon, Sarah, Sotiras, Aristeidis, Schwender, Holger, Hoffstaedter, Felix, Patil, Kaustubh R, Jockwitz, Christiane, Caspers, Svenja, Moebus, Susanne, Amunts, Katrin, Davatzikos, Christos, Eickhoff, Simon B","Age prediction, Dimensionality reduction, LASSO regression, Non-negative matrix factorization, Structural MRI, Voxel-based morphometry"
+DRN: A Deep Reinforcement Learning Framework for News Recommendation,2018,"Zheng, Guanjie, Zhang, Fuzheng, Zheng, Zihan, Xiang, Yang, Yuan, Nicholas Jing, Xie, Xing, Li, Zhenhui","deep Q-Learning, news recommendation, reinforcement learning"
+Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba,2018,"Wang, Jizhe, Huang, Pipei, Zhao, Huan, Zhang, Zhibo, Zhao, Binqiang, Lee, Dik Lun","collaborative filtering, e-commerce recommendation, graph embedding, recommendation system"
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,2018,"Devlin, Jacob, Chang, Ming-Wei, Lee, Kenton, Toutanova, Kristina",
+Using explainability for constrained matrix factorization,2017,"Abdollahi, Behnoush, Nasraoui, Olfa",
+Remembering a Conversation - A Conversational Memory Architecture for Embodied Conversational Agents,2017,"Elvir, Miguel, Gonzalez, Avelino J., Walls, Christopher, Wilder, Bryan","Chatbots, Embodied Conversational Agents, chatterbots, conversational agents, conversational memory, episodic memory, episodic memory architecture"
+Model-agnostic Meta-learning for Fast Adaptation of Deep Networks,2017,"Finn, Chelsea, Abbeel, Pieter, Levine, Sergey",
+Large Scale Evaluation of Learning Flow,2017,"Lynch, Tiina, Ghergulescu, Ioana","adaptive learning, flow, learning analytics, personalization, user feedback"
+Graph Convolutional Matrix Completion,2017,"Berg, Rianne van den, Kipf, Thomas N., Welling, Max",
+Exploring Explanations for Matrix Factorization Recommender Systems,2017,"Rastegarpanah, Bashir, Crovella, Mark, Gummadi, Krishna P",
+DeepFM: A Factorization-machine Based Neural Network for CTR Prediction,2017,"Guo, Huifeng, Tang, Ruiming, Ye, Yunming, Li, Zhenguo, He, Xiuqiang",
+Cyclical learning rates for training neural networks,2017,"Smith, Leslie N.",
+Attention is all you need,2017,"Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Łukasz, Polosukhin, Illia",
+Wide & Deep Learning for Recommender Systems,2016,"Cheng, Heng-Tze, Koc, Levent, Harmsen, Jeremiah, Shaked, Tal, Chandra, Tushar, Aradhye, Hrishi, Anderson, Glen, Corrado, Greg, Chai, Wei, Ispir, Mustafa, Anil, Rohan, Haque, Zakaria, Hong, Lichan, Jain, Vihan, Liu, Xiaobing, Shah, Hemal","Recommender Systems, Wide & Deep Learning"
+Unsupervised Text Summarization Using Sentence Embeddings,2016,"Padmakumar, Aishwarya, Saran, Akanksha",
+Policy distillation,2016,"Rusu, Andrei A., Colmenarejo, Sergio Gómez, Gülçehre, Çaglar, Desjardins, Guillaume, Kirkpatrick, James, Pascanu, Razvan, Mnih, Volodymyr, Kavukcuoglu, Koray, Hadsell, Raia",
+Explainable Matrix Factorization for Collaborative Filtering,2016,"Abdollahi, Behnoush, Nasraoui, Olfa","cf, collaborative filtering, explanations, matrix factorization, mf, recommender sys-, tems"
+Dropout as a Bayesian approximation: Representing model uncertainty in deep learning,2016,"Gal, Yarin, Ghahramani, Zoubin",
+Discovering causal interactions using Bayesian network scoring and information gain,2016,"Zeng, Zexian, Jiang, Xia, Neapolitan, Richard","Bayesian network, Breast cancer survival, Cause, Epistasis, Information gain, Interaction, Low-dimensional"
+CuMF_SGD: Fast and Scalable Matrix Factorization,2016,"Xie, Xiaolong, Tan, Wei, Fong, Liana L, Liang, Yun",
+Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering,2016,"Defferrard, Michaël, Bresson, Xavier, Vandergheynst, Pierre",
+An Evaluation Framework for Adaptive and Intelligent Tutoring Systems,2016,"Lynch, Tiina, Ghergulescu, Ioana","Designing, Developing, and Assessing E-Learning"
+A recommendation system for meta-modeling: A meta-learning based approach,2016,"Cui, Can, Hu, Mengqi, Weir, Jeffery D., Wu, Teresa","Algorithm selection, Feature reduction, Meta-learning, Meta-model, Recommendation system, Simulation"
+Skip-thought vectors,2015,"Kiros, Ryan, Zhu, Yukun, Salakhutdinov, Ruslan, Zemel, Richard S., Torralba, Antonio, Urtasun, Raquel, Fidler, Sanja",
+Sequence-to-sequence neural net models for grapheme-to-phoneme conversion,2015,"Yao, Kaisheng, Zweig, Geoffrey","Grapheme-to-phoneme conversion, Neural networks, Sequence-to-sequence neural networks"
+Human-level control through deep reinforcement learning,2015,"Mnih, Volodymyr, Kavukcuoglu, Koray, Silver, David, Rusu, Andrei A., Veness, Joel, Bellemare, Marc G., Graves, Alex, Riedmiller, Martin, Fidjeland, Andreas K., Ostrovski, Georg, Petersen, Stig, Beattie, Charles, Sadik, Amir, Antonoglou, Ioannis, King, Helen, Kumaran, Dharshan, Wierstra, Daan, Legg, Shane, Hassabis, Demis",
+Example-based chat-oriented dialogue system with personalized long-term memory,2015,"Bang, Jeesoo, Noh, Hyungjong, Kim, Yonghee, Lee, Gary Geunbae","Dialogue system, chatting system, conversational agent, example database, personalization"
+Comparison of molecular signatures from multiple skin diseases identifies mechanisms of immunopathogenesis,2015,"Inkeles, Megan S., Scumpia, Philip O., Swindell, William R., Lopez, David, Teles, Rosane M.B., Graeber, Thomas G., Meller, Stephan, Homey, Bernhard, Elder, James T., Gilliet, Michel, Modlin, Robert L., Pellegrini, Matteo",
+Instability of Matrix Factorization Used in Recommender Systems,2014,"Buza, Antal, Kis, Piroska B","15a23, 2010 mathematics subject classification, 49k40, and phrases, factorization of matrices, recommender system, stability"
+Bayesian Probabilistic Matrix Factorization: A User Frequency Analysis,2014,"Severinski, Cody, Salakhutdinov, Ruslan",
+Recommender Systems Survey,2013,"Bobadilla, J., Ortega, F., Hernando, A., Gutiérrez, A.","Cold-start, Collaborative filtering, Evaluation metrics, Hybrid, Internet of things, Prediction, Recommendation, Recommender systems, Similarity measures, Social"
+Enabling Efficient Intra-Warp Communication for Fourier Transforms in a Many-Core Architecture,2013,"del Mundo, Carlo, Feng, Wu-chun",
+Active transfer learning for cross-system recommendation,2013,"Zhao, Lili, Pan, Sinno Jialin, Xiang, Evan Wei, Zhong, Erheng, Lu, Zhongqi, Yang, Qiang",Special Track on Artificial Intelligence and the W
+Generalization of multi-channel linear prediction methods for blind MIMO impulse response shortening,2012,"Yoshioka, Takuya, Nakatani, Tomohiro","Blind equalization, dereverberation, linear prediction MIMO"
+A GPU-based Approximate SVD Algorithm,2012,"Foster, Blake, Mahadevan, Sridhar, Wang, Rui","GPU, SVD, cosine trees, out-of-core computation"
+Applications of the Conjugate Gradient Method for Implicit Feedback Collaborative Filtering,2011,"Takács, Gábor, Pilászy, István, Tikk, Domonkos","collaborative filtering, conjugate gradient method"
+Opinosis: A graph-based approach to abstractive summarization of highly redundant opinions,2010,"Ganesan, Kavita, Zhai, Cheng Xiang, Han, Jiawei",
+Frozen robust multiarray analysis (fRMA),2010,"McCall, Matthew N., Bolstad, Benjamin M., Irizarry, Rafael A.","Affymetrix, ArrayExpress, GEO, Microarray, Preprocessing, Single-array"
+Factorization Machines,2010,"Rendle, Steffen","factorization machine, sparse data, support vector machine, tensor factorization"
+Collaborative filtering with temporal dynamics,2010,"Koren, Yehuda","collaborative filtering, net-, prediction, recommender systems"
+Matrix Factorization Techniques for Recommender Systems,2009,"Koren, Yehuda, Bell, Robert, Volinsky, Chris","Computational intelligence, Matrix factorization, Netflix Prize"
+Causal inference in statistics: An overview,2009,"Pearl, Judea","Causal effects, Causes of effects, Confounding, Counterfactuals, Graphical methods, Mediation, Policy evaluation, Potential-outcome, Structural equationmodels"
+QUIC-SVD: Fast SVD using cosine trees,2008,"Holmes, Michael, Gray, Alexander, Jr, Charles",
+Multivariate gene expression analysis reveals functional connectivity changes between normal/tumoral prostates,2008,"Fujita, André, Gomes, Luciana Rodrigues, Sato, João Ricardo, Yamaguchi, Rui, Thomaz, Carlos Eduardo, Sogayar, Mari Cleide, Miyano, Satoru",
+Factorization meets the neighborhood: a Multifaceted Collaborative Collaborative Filtering Model,2008,"Koren, Yehuda","collaborative filtering, recommender systems"
+Collaborative Filtering for Implicit Feedback Datasets,2008,"Hu, Yifan, Koren, Yehuda, Volinsky, Chris","Collaborative filtering, implicit feedback, recommender system"
+Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo,2008,"Salakhutdinov, Ruslan, Mnih, Andriy",
+Probabilistic Matrix Factorization,2007,"Salakhutdinov, Ruslan, Mnih, Andriy",
+Improving regularized singular value decomposition for collaborative filtering,2007,"Paterek, Arkadiusz",
+Collaborative filtering recommender systems,2007,"Schafer, J. Ben, Frankowski, Dan, Herlocker, Jon, Sen, Shilad",
+Probabilistic sparse matrix factorization,2004,"Dueck, Delbert, Frey, Brendan J, Dueck, Delbert, Frey, Brendan J",
+A study of methods for normalizing user ratings in collaborative filtering,2004,"Jin, Rong, Si, Luo","Collaborative filtering, Rating normalization"
+Latent Dirichlet Allocation: Extracting Topics from Software Engineering Data,2003,"Campbell, Joshua Charles, Hindle, Abram, Stroulia, Eleni","Latent Dirichlet allocation, Software engineering, Topic modeling, Tutorial"
+Simplifying Neural Networks by Soft Weight-sharing,1992,"Nowlan, Steven J, Hinton, Geoffrey E",
+Indexing by latent semantic analysis,1990,"Deerwester, Scott, Dumais, Susan T., Furnas, George W., Landauer, Thomas K., Harshman, Richard",
+A Note on the Use of Principal Components in Regression,1982,"Jolliffe, Ian T.",
+The Automatic Creation of Literature Abstracts,1958,"Lunh, H. P.",Lunh
